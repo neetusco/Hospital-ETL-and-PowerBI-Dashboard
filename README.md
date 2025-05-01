@@ -43,7 +43,7 @@ Explore the interactive dashboard built using Power BI. It includes:
 - Trends in prescription patterns
 - Filters by department, time, and location
 
-**[View Power BI Dashboard](https://your-dashboard-link.com](https://app.powerbi.com/groups/me/reports/97b82f21-6f4f-4431-b84d-c609ae1f0f3e/0a9dd7b9f5ad7726b05d?experience=power-bi)**  
+**[🔗 View Live Dashboard](https://app.powerbi.com/groups/me/reports/97b82f21-6f4f-4431-b84d-c609ae1f0f3e/0a9dd7b9f5ad7726b05d?experience=power-bi)**  
 
 ---
 
