@@ -51,7 +51,7 @@ Explore the interactive dashboard built using Power BI. It includes:
 
 The following diagram outlines the high-level design of the normalized database:
 
-![Conceptual ER Diagram](Conceptual diagram.png)
+![Conceptual ER Diagram](Conceptual_Diagram.png)
 
 ---
 
